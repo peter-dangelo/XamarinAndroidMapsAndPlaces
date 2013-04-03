@@ -1,0 +1,12 @@
+C:\Users\pete\Documents\GitHub\monodroid-samples\MapsAndLocationDemo_v2\GooglePlayServices\bin\Debug\GooglePlayServices.dll
+C:\Users\pete\Documents\GitHub\monodroid-samples\MapsAndLocationDemo_v2\GooglePlayServices\bin\Debug\GooglePlayServices.pdb
+C:\Users\pete\Documents\GitHub\monodroid-samples\MapsAndLocationDemo_v2\GooglePlayServices\obj\Debug\GooglePlayServices.dll
+C:\Users\pete\Documents\GitHub\monodroid-samples\MapsAndLocationDemo_v2\GooglePlayServices\obj\Debug\GooglePlayServices.pdb
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidSandbox\GooglePlayServices\bin\Debug\GooglePlayServices.dll
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidSandbox\GooglePlayServices\bin\Debug\GooglePlayServices.pdb
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidSandbox\GooglePlayServices\obj\Debug\GooglePlayServices.dll
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidSandbox\GooglePlayServices\obj\Debug\GooglePlayServices.pdb
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidMapsAndPlaces\GooglePlayServices\bin\Debug\GooglePlayServices.dll
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidMapsAndPlaces\GooglePlayServices\bin\Debug\GooglePlayServices.pdb
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidMapsAndPlaces\GooglePlayServices\obj\Debug\GooglePlayServices.dll
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidMapsAndPlaces\GooglePlayServices\obj\Debug\GooglePlayServices.pdb

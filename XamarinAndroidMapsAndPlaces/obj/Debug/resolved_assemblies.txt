@@ -1,0 +1,3 @@
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidMapsAndPlaces\XamarinAndroidMapsAndPlaces\bin\Debug\XamarinAndroidSandbox.dll
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidMapsAndPlaces\XamarinAndroidMapsAndPlaces\bin\Debug\GooglePlayServices.dll
+C:\Users\pete\Documents\GitHub\MyGithub\XamarinAndroidMapsAndPlaces\XamarinAndroidMapsAndPlaces\bin\Debug\ServiceStack.Text.dll
